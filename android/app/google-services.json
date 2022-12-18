@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910298241973",
+    "project_id": "interviewschedule-fd6e0",
+    "storage_bucket": "interviewschedule-fd6e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910298241973:android:a09a9f80317d8ae41997fc",
+        "android_client_info": {
+          "package_name": "com.example.insterviewschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910298241973-ob55nk58mnuphipv6r8qmspll07dln7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNNdijC2tf5rIn3QhUDGUHD49138MtGo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910298241973-ob55nk58mnuphipv6r8qmspll07dln7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
